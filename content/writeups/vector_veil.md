@@ -1,6 +1,6 @@
 ---
 title: "Vector Veil - CyberSci Regionals 2024"
-date: 2024-11-25T12:30:00-04:00
+date: 2024-11-24T12:30:00-04:00
 author: "1t1n1"
 cover: "/images/vector_veil/cover.png"
 description: "A Reverse Engineering challenge that dives into the AVX extensions to the x86 instructions set"
